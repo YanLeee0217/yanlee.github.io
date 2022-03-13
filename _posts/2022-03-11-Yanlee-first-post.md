@@ -15,7 +15,7 @@ The world is nice place with many people and things to explore. I recently learn
 like SY Huang to destroy human brains with passive magnet arrays.
 
 Thank you for coming to my TED talk
-![xinrus roses]({https://yanleee0217.github.io/yanlee.github.io/}{https://yanleee0217.github.io/yanlee.github.io/}/assets/roses.png)
+![xinrus roses]({{https://yanleee0217.github.io/yanlee.github.io/}}{{https://yanleee0217.github.io/yanlee.github.io/}}/assets/roses.png)
 
 Hello world my name is Yanleeeeeeeeeeee. the e is infinite
 Thank you for the time on this post. Very much appreciate.
