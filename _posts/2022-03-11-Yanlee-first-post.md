@@ -10,12 +10,14 @@ tags:
 ---
 
 
-###Hello world my name is yanleee
+### Hello world my name is yanleee
 The world is nice place with many people and things to explore. I recently learnt that money doesn't grow on trees. In my free time, I work with people
 like SY Huang to destroy human brains with passive magnet arrays.
 
 Thank you for coming to my TED talk
-![xinrus roses]({{ site.url }}{{ base.url }}/assets/roses.png)
+![xinrus roses]({{ site.url }}{{ base.url }}/assets/images/roses.png)
+
+
 
 Hello world my name is Yanleeeeeeeeeeee. the e is infinite
 Thank you for the time on this post. Very much appreciate.
