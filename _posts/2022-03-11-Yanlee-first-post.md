@@ -15,7 +15,7 @@ The world is nice place with many people and things to explore. I recently learn
 like SY Huang to destroy human brains with passive magnet arrays.
 
 Thank you for coming to my TED talk
-![xinrus roses]({{ site.url }}{{ base.url }}/assets/images/roses.png)
+![xinrus roses]({{site.url}}/assets/images/roses.png)
 
 
 
